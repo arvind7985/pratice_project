@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fname": "Sebastian",
+      "lname": "Eschweiler",
+      "email": "sebastian@codingmartway.com"
+    },
+    {
+      "id": 3,
+      "fname": "Ann",
+      "lname": "Smith",
+      "email": "ann@codingthesmartway.com"
+    },
+    {
+      "id": 5,
+      "fname": "akku",
+      "lname": "Mishra",
+      "email": "akku@gmail.com"
+    },
+    {
+      "id": 6,
+      "fname": "arvind",
+      "lname": "kumar",
+      "email": "arvind@gmail.com"
+    }
+  ]
+}
